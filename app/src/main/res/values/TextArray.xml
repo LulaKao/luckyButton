@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pokemonName">
+    <item>妙蛙種子</item>
+    <item>妙蛙草</item>
+    <item>妙蛙花</item>
+    <item>小火龍</item>
+    <item>火恐龍</item>
+    <item>噴火龍</item>
+    <item>傑尼龜</item>
+    <item>卡咪龜</item>
+    <item>水箭龜</item>
+    </array>
+
+
+</resources>
